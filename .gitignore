@@ -50,3 +50,6 @@ assets/generated/
 
 # Notebooks with output (optional if you want clean commits)
 notebooks/*.ipynb
+
+# Ignore secret config
+.env

@@ -5,7 +5,7 @@ This is a scratchpad for insights, tips, and things I’m learning as I build th
 ---
 
 ## 🗓️ [June 25, 2025]
-- 
+- always create a .env file and add it to .gitignore to avoid accidentally commiting API keys then use python-dotenv to load it in python code
 
 ---
 
