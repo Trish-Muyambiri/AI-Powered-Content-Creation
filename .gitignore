@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.log
+*.env
+.env
+.env.*
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# FFmpeg outputs / video renders
+assets/output/
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wav
+*.mp3
+
+# DALL·E or image assets (optional)
+assets/generated/
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Whisper-generated caption files
+*.srt
+*.vtt
+
+# Misc build artifacts
+*.zip
+*.tar.gz
+
+# Notebooks with output (optional if you want clean commits)
+notebooks/*.ipynb
